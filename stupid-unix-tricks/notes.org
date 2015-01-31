@@ -1,7 +1,23 @@
 * Bash Tricks
 
+  - [[GNUReadline][Readline Support]]
+  - History Substitution (^cmd^cmd)
+  - The difference between Sh, Bash, Ash, Busybox
+  - #! and magic numbers (See also: [[RuntimeSection][Runtime Tricks]])
+  - I/O Redirection
+  - Subshells `<(cmd)`
+  - Parallel and Concurrent Execution
+  - Job Control
+  - 
+
 * GNU-isms
 
-* Runtime Tricks
+
+  - Readline <<GNUReadline>>
+
+* <<RuntimeSection>> Runtime Tricks
+
+
+  -
 
 * Linux
